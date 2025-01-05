@@ -46,14 +46,14 @@ server = EmailServer("smtp.gmail.com", 465, email_token)   # Gmail
 
 ![image-20241228123648544](https://s2.loli.net/2024/12/28/CkFaXtLTQbRU5he.png)
 
-| Key         | Value                    |
-| ----------- | ------------------------ |
-| TOKEN       | 拷贝 token               |
-| USERNAME    | 拷贝 用户名              |
-| PASSWORD    | 拷贝 密码                |
-| FROM_EMAIL  | 发件人邮箱               |
+| Key         | Value        |
+|-------------|--------------|
+| TOKEN       | 拷贝 token     |
+| USERNAME    | 拷贝 用户名       |
+| PASSWORD    | 拷贝 密码        |
+| FROM_EMAIL  | 发件人邮箱        |
 | TO_EMAIL    | 收件人邮箱，可以发给自己 |
-| EMAIL_TOKEN | 邮箱授权码               |
+| EMAIL_TOKEN | 邮箱授权码        |
 
 快捷复制:)
 
@@ -88,6 +88,8 @@ EMAIL_TOKEN
 - 按F12 或 右键选择**检查** 打开开发者工具
 
 - 打开应用程序一栏，在左侧找到Cookie，复制token的值
+
+- **其实token也不是必须的，只要有用户名和密码可以自动获取，但是自动获取的token会导致你的网站上的token失效，每次自动获取一次token，网站都需要重新登录**
 
   ![image-20241228124951850](https://s2.loli.net/2024/12/28/un3kYgVO5BENLvF.png)
 
@@ -127,7 +129,6 @@ on:
 
 - [x] 可以使用其他邮箱服务
 - [x] 项目文件结构优化，抽取函数到多个py文件
-- [ ] 想不到有什么好主意了😪
 
 **如果对你有帮助的话，不妨给个star⭐**
 
