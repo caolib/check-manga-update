@@ -4,6 +4,84 @@
     "results": {
         "list": [
             {
+                "uuid": 122147,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": {
+                    "last_browse_id": "5f3aad62-9ccd-11ef-8932-3f487b7d9a9a",
+                    "last_browse_name": "ç¬¬182è¯"
+                },
+                "comic": {
+                    "uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
+                    "b_display": true,
+                    "name": "電鋸人",
+                    "path_word": "dianjuren",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "藤本タツキ",
+                            "path_word": "藤本タツキ"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 46717030,
+                    "datetime_updated": "2025-03-03",
+                    "last_chapter_id": "8f763ecc-f7d8-11ef-a1f3-fa163e02432f",
+                    "last_chapter_name": "第194话",
+                    "browse": {
+                        "comic_uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
+                        "path_word": "dianjuren",
+                        "chapter_uuid": "5f3aad62-9ccd-11ef-8932-3f487b7d9a9a",
+                        "chapter_name": "ç¬¬182è¯"
+                    }
+                }
+            },
+            {
+                "uuid": 100606,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": {
+                    "last_browse_id": "ce842940-44b3-11ef-9ad4-3f487b7d9a9a",
+                    "last_browse_name": "ç¬¬100è©±"
+                },
+                "comic": {
+                    "uuid": "0802762e-c60f-11e8-879b-024352452ce0",
+                    "b_display": true,
+                    "name": "不過是蜘蛛什麼的",
+                    "path_word": "buguoshizhizhushenmede",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "かかし朝浩",
+                            "path_word": "かかし朝浩"
+                        },
+                        {
+                            "name": "馬場翁",
+                            "path_word": "馬場翁"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://hi77-overseas.mangafunb.fun/buguoshizhizhushenmede/cover/1651422691.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 5415075,
+                    "datetime_updated": "2025-03-03",
+                    "last_chapter_id": "b3dc07e6-f7d7-11ef-b95f-fa163e02432f",
+                    "last_chapter_name": "第106話",
+                    "browse": {
+                        "comic_uuid": "0802762e-c60f-11e8-879b-024352452ce0",
+                        "path_word": "buguoshizhizhushenmede",
+                        "chapter_uuid": "ce842940-44b3-11ef-9ad4-3f487b7d9a9a",
+                        "chapter_name": "ç¬¬100è©±"
+                    }
+                }
+            },
+            {
                 "uuid": 100609,
                 "name": null,
                 "b_folder": false,
@@ -152,43 +230,6 @@
                         "path_word": "xianggelilafulongtiyashizuolierenxiangshenzuofaqit",
                         "chapter_uuid": "dc052534-9ccd-11ef-8932-3f487b7d9a9a",
                         "chapter_name": "ç¬¬199è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 122147,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "5f3aad62-9ccd-11ef-8932-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬182è¯"
-                },
-                "comic": {
-                    "uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "電鋸人",
-                    "path_word": "dianjuren",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "藤本タツキ",
-                            "path_word": "藤本タツキ"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 46717030,
-                    "datetime_updated": "2025-02-28",
-                    "last_chapter_id": "d487e777-f573-11ef-9f4c-fa163e02432f",
-                    "last_chapter_name": "第193话",
-                    "browse": {
-                        "comic_uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
-                        "path_word": "dianjuren",
-                        "chapter_uuid": "5f3aad62-9ccd-11ef-8932-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬182è¯"
                     }
                 }
             },
@@ -390,47 +431,6 @@
                         "path_word": "zangsongdefulilian",
                         "chapter_uuid": "439f39c0-9ccc-11ef-8931-3f487b7d9a9a",
                         "chapter_name": "ç¬¬137è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 100606,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "ce842940-44b3-11ef-9ad4-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬100è©±"
-                },
-                "comic": {
-                    "uuid": "0802762e-c60f-11e8-879b-024352452ce0",
-                    "b_display": true,
-                    "name": "不過是蜘蛛什麼的",
-                    "path_word": "buguoshizhizhushenmede",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "かかし朝浩",
-                            "path_word": "かかし朝浩"
-                        },
-                        {
-                            "name": "馬場翁",
-                            "path_word": "馬場翁"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/buguoshizhizhushenmede/cover/1651422691.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 5415075,
-                    "datetime_updated": "2025-02-07",
-                    "last_chapter_id": "df75c28c-e520-11ef-b0a9-3f487b7d9a9a",
-                    "last_chapter_name": "第105話",
-                    "browse": {
-                        "comic_uuid": "0802762e-c60f-11e8-879b-024352452ce0",
-                        "path_word": "buguoshizhizhushenmede",
-                        "chapter_uuid": "ce842940-44b3-11ef-9ad4-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬100è©±"
                     }
                 }
             },
