@@ -4,55 +4,11 @@
     "results": {
         "list": [
             {
-                "uuid": 186320,
+                "uuid": 212309,
                 "name": null,
                 "b_folder": false,
                 "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "dc052534-9ccd-11ef-8932-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬199è¯"
-                },
-                "comic": {
-                    "uuid": "0106a2f2-cbce-11ea-afaa-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "香格裡拉·弗隴提亞~屎作獵人向神作發起挑戰~",
-                    "path_word": "xianggelilafulongtiyashizuolierenxiangshenzuofaqit",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "不二凉介",
-                            "path_word": "不二凉介"
-                        },
-                        {
-                            "name": "硬梨菜",
-                            "path_word": "硬梨菜"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/xianggelilafulongtiyashizuolierenxiangshenzuofaqit/cover/1657687797.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 24212832,
-                    "datetime_updated": "2025-03-03",
-                    "last_chapter_id": "5befaf16-f7db-11ef-a1f2-fa163e02432f",
-                    "last_chapter_name": "第212话",
-                    "browse": {
-                        "comic_uuid": "0106a2f2-cbce-11ea-afaa-00163e0ca5bd",
-                        "path_word": "xianggelilafulongtiyashizuolierenxiangshenzuofaqit",
-                        "chapter_uuid": "dc052534-9ccd-11ef-8932-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬199è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 122147,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "5f3aad62-9ccd-11ef-8932-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬182è¯"
-                },
+                "last_browse": null,
                 "comic": {
                     "uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
                     "b_display": true,
@@ -72,64 +28,17 @@
                     "popular": 46748824,
                     "datetime_updated": "2025-03-03",
                     "last_chapter_id": "8f763ecc-f7d8-11ef-a1f3-fa163e02432f",
-                    "last_chapter_name": "第194话",
-                    "browse": {
-                        "comic_uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
-                        "path_word": "dianjuren",
-                        "chapter_uuid": "5f3aad62-9ccd-11ef-8932-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬182è¯"
-                    }
+                    "last_chapter_name": "第194话"
                 }
             },
             {
-                "uuid": 100606,
+                "uuid": 211473,
                 "name": null,
                 "b_folder": false,
                 "folder_id": null,
                 "last_browse": {
-                    "last_browse_id": "ce842940-44b3-11ef-9ad4-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬100è©±"
-                },
-                "comic": {
-                    "uuid": "0802762e-c60f-11e8-879b-024352452ce0",
-                    "b_display": true,
-                    "name": "不過是蜘蛛什麼的",
-                    "path_word": "buguoshizhizhushenmede",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "かかし朝浩",
-                            "path_word": "かかし朝浩"
-                        },
-                        {
-                            "name": "馬場翁",
-                            "path_word": "馬場翁"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/buguoshizhizhushenmede/cover/1651422691.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 5426657,
-                    "datetime_updated": "2025-03-03",
-                    "last_chapter_id": "b3dc07e6-f7d7-11ef-b95f-fa163e02432f",
-                    "last_chapter_name": "第106話",
-                    "browse": {
-                        "comic_uuid": "0802762e-c60f-11e8-879b-024352452ce0",
-                        "path_word": "buguoshizhizhushenmede",
-                        "chapter_uuid": "ce842940-44b3-11ef-9ad4-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬100è©±"
-                    }
-                }
-            },
-            {
-                "uuid": 100609,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "0273bdcc-b06d-11ef-9190-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬94è¯"
+                    "last_browse_id": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                    "last_browse_name": "ç¬¬42è¯"
                 },
                 "comic": {
                     "uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
@@ -154,93 +63,19 @@
                     "browse": {
                         "comic_uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
                         "path_word": "biedangounijiangle",
-                        "chapter_uuid": "0273bdcc-b06d-11ef-9190-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬94è¯"
+                        "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                        "chapter_name": "ç¬¬42è¯"
                     }
                 }
             },
             {
-                "uuid": 158118,
+                "uuid": 211467,
                 "name": null,
                 "b_folder": false,
                 "folder_id": null,
                 "last_browse": {
-                    "last_browse_id": "49a074c0-31f5-11ef-93e7-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬100è¯"
-                },
-                "comic": {
-                    "uuid": "ff6c6574-523b-11e9-bc73-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "間諜過家家",
-                    "path_word": "jiandieguojiajia",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "远藤达哉",
-                            "path_word": "远藤达哉"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/jiandieguojiajia/cover/1655269721.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 21758949,
-                    "datetime_updated": "2025-02-28",
-                    "last_chapter_id": "90212f37-f5b1-11ef-bad5-fa163e02432f",
-                    "last_chapter_name": "第112话",
-                    "browse": {
-                        "comic_uuid": "ff6c6574-523b-11e9-bc73-00163e0ca5bd",
-                        "path_word": "jiandieguojiajia",
-                        "chapter_uuid": "49a074c0-31f5-11ef-93e7-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬100è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 180496,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "8463e838-a08d-11ef-8a7e-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬174è¯"
-                },
-                "comic": {
-                    "uuid": "e13eda66-96bb-11eb-8214-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "超自然武裝噹噠噹",
-                    "path_word": "chaoziranwuzhuangdangdadang",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "龍幸伸",
-                            "path_word": "龍幸伸"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/chaoziranwuzhuangdangdadang/cover/1688225704.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 17505852,
-                    "datetime_updated": "2025-02-28",
-                    "last_chapter_id": "75930f75-f598-11ef-8a44-fa163e02432f",
-                    "last_chapter_name": "第183话",
-                    "browse": {
-                        "comic_uuid": "e13eda66-96bb-11eb-8214-00163e0ca5bd",
-                        "path_word": "chaoziranwuzhuangdangdadang",
-                        "chapter_uuid": "8463e838-a08d-11ef-8a7e-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬174è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 190870,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "b5e48ccc-b8a3-11ef-9789-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬29è©±"
+                    "last_browse_id": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
+                    "last_browse_name": "ç¬¬33è©±"
                 },
                 "comic": {
                     "uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
@@ -269,518 +104,45 @@
                     "browse": {
                         "comic_uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
                         "path_word": "puputongtongqinyinbu",
-                        "chapter_uuid": "b5e48ccc-b8a3-11ef-9789-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬29è©±"
+                        "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
+                        "chapter_name": "ç¬¬33è©±"
                     }
                 }
             },
             {
-                "uuid": 140377,
+                "uuid": 211460,
                 "name": null,
                 "b_folder": false,
                 "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "044fcd3e-83ae-11ef-bb84-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬141è¯"
-                },
+                "last_browse": null,
                 "comic": {
-                    "uuid": "155edbf2-10a4-11e9-828f-00163e0ca5bd",
+                    "uuid": "4caadd62-4efd-11e9-8b1c-024352452ce0",
                     "b_display": true,
-                    "name": "魔都精兵的奴隸",
-                    "path_word": "modujingbingdenuli",
+                    "name": "一拳超人",
+                    "path_word": "yiquanchaoren",
                     "females": [],
                     "males": [],
                     "author": [
                         {
-                            "name": "竹村洋平",
-                            "path_word": "竹村洋平"
+                            "name": "村田雄介",
+                            "path_word": "村田雄介"
                         },
                         {
-                            "name": "タカヒロ",
-                            "path_word": "タカヒロ"
+                            "name": "ONE",
+                            "path_word": "ONE"
                         }
                     ],
                     "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/modujingbingdenuli/cover/1684896820.jpg.328x422.jpg",
+                    "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 62483314,
-                    "datetime_updated": "2025-02-28",
-                    "last_chapter_id": "8803ca8e-f543-11ef-9ea8-fa163e02432f",
-                    "last_chapter_name": "第150话",
-                    "browse": {
-                        "comic_uuid": "155edbf2-10a4-11e9-828f-00163e0ca5bd",
-                        "path_word": "modujingbingdenuli",
-                        "chapter_uuid": "044fcd3e-83ae-11ef-bb84-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬141è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 182355,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "cbf9f726-5b85-11eb-8549-024352452ce0",
-                    "last_browse_name": "ç¬¬02è¯"
-                },
-                "comic": {
-                    "uuid": "ba35470a-5b85-11eb-8549-024352452ce0",
-                    "b_display": true,
-                    "name": "南瓜魅夜",
-                    "path_word": "nanguameiye",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "谷口世磨",
-                            "path_word": "谷口世磨"
-                        },
-                        {
-                            "name": "外薗昌也",
-                            "path_word": "外薗昌也"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://sn.mangafunb.fun/n/nanguameiye/cover/1728957412.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 16608151,
-                    "datetime_updated": "2025-02-13",
-                    "last_chapter_id": "90702324-e9be-11ef-b3da-3f487b7d9a9a",
-                    "last_chapter_name": "第149话试看",
-                    "browse": {
-                        "comic_uuid": "ba35470a-5b85-11eb-8549-024352452ce0",
-                        "path_word": "nanguameiye",
-                        "chapter_uuid": "cbf9f726-5b85-11eb-8549-024352452ce0",
-                        "chapter_name": "ç¬¬02è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 182364,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "bf62fab8-6af1-11ef-afd5-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬203è¯"
-                },
-                "comic": {
-                    "uuid": "9d301b16-c77c-11e8-87ed-024352452ce0",
-                    "b_display": true,
-                    "name": "隱語島",
-                    "path_word": "yinyudao",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "田中克樹",
-                            "path_word": "田中克樹"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/yinyudao/cover/1651422891.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 16478364,
-                    "datetime_updated": "2025-02-11",
-                    "last_chapter_id": "e37237b7-e84b-11ef-b2e0-3f487b7d9a9a",
-                    "last_chapter_name": "第213话",
-                    "browse": {
-                        "comic_uuid": "9d301b16-c77c-11e8-87ed-024352452ce0",
-                        "path_word": "yinyudao",
-                        "chapter_uuid": "bf62fab8-6af1-11ef-afd5-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬203è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 124765,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "439f39c0-9ccc-11ef-8931-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬137è¯"
-                },
-                "comic": {
-                    "uuid": "925879aa-895d-11ea-93fb-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "葬送的芙莉蓮",
-                    "path_word": "zangsongdefulilian",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "山田钟人",
-                            "path_word": "山田钟人"
-                        },
-                        {
-                            "name": "アベツカサ",
-                            "path_word": "アベツカサ"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/zangsongdefulilian/cover/1655271863.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 25940383,
-                    "datetime_updated": "2025-02-09",
-                    "last_chapter_id": "4e440732-e6c5-11ef-b1d9-3f487b7d9a9a",
-                    "last_chapter_name": "2024人气投票",
-                    "browse": {
-                        "comic_uuid": "925879aa-895d-11ea-93fb-00163e0ca5bd",
-                        "path_word": "zangsongdefulilian",
-                        "chapter_uuid": "439f39c0-9ccc-11ef-8931-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬137è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 182354,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "e3567d04-83a4-11ed-8501-024352452ce0",
-                    "last_browse_name": "ç¬¬09è©±"
-                },
-                "comic": {
-                    "uuid": "0fc5e830-34b2-11ed-b36f-024352452ce0",
-                    "b_display": true,
-                    "name": "幼兒園戰爭",
-                    "path_word": "youeryuanzhanzheng",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "千叶侑生",
-                            "path_word": "千叶侑生"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/youeryuanzhanzheng/cover/1682583644.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 2244137,
-                    "datetime_updated": "2025-02-04",
-                    "last_chapter_id": "36df0e02-e2b5-11ef-af9f-3f487b7d9a9a",
-                    "last_chapter_name": "第102話",
-                    "browse": {
-                        "comic_uuid": "0fc5e830-34b2-11ed-b36f-024352452ce0",
-                        "path_word": "youeryuanzhanzheng",
-                        "chapter_uuid": "e3567d04-83a4-11ed-8501-024352452ce0",
-                        "chapter_name": "ç¬¬09è©±"
-                    }
-                }
-            },
-            {
-                "uuid": 181586,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "29fd8bf8-d1be-11ef-a74b-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬34è©±"
-                },
-                "comic": {
-                    "uuid": "04706dfa-1e83-11ee-b2c2-d3d228a76de6",
-                    "b_display": true,
-                    "name": "廣井菊里的深酒日記",
-                    "path_word": "gjjldsjrj",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "はまじあき",
-                            "path_word": "はまじあき"
-                        },
-                        {
-                            "name": "くみちょう",
-                            "path_word": "くみちょう"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://sg.mangafunb.fun/g/gjjldsjrj/cover/1735739859.png.328x422.jpg",
-                    "status": 0,
-                    "popular": 838999,
-                    "datetime_updated": "2025-01-28",
-                    "last_chapter_id": "8f593970-dd76-11ef-addc-3f487b7d9a9a",
-                    "last_chapter_name": "第35.5話",
-                    "browse": {
-                        "comic_uuid": "04706dfa-1e83-11ee-b2c2-d3d228a76de6",
-                        "path_word": "gjjldsjrj",
-                        "chapter_uuid": "29fd8bf8-d1be-11ef-a74b-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬34è©±"
-                    }
-                }
-            },
-            {
-                "uuid": 184256,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "cce9b8b2-9543-11ef-859b-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬21è©±"
-                },
-                "comic": {
-                    "uuid": "1d49bff8-aeb7-11ec-80da-024352452ce0",
-                    "b_display": true,
-                    "name": "為這美好的世界獻上祝福! fantastic days",
-                    "path_word": "wzmhdsjxszffantasticdays",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "森野カスミ",
-                            "path_word": "森野カスミ"
-                        },
-                        {
-                            "name": "晓なつめ",
-                            "path_word": "晓なつめ"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/wzmhdsjxszffantasticdays/cover/1651574064.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 98069,
-                    "datetime_updated": "2025-01-27",
-                    "last_chapter_id": "cf915a5a-dcb7-11ef-ad3e-3f487b7d9a9a",
-                    "last_chapter_name": "第25話",
-                    "browse": {
-                        "comic_uuid": "1d49bff8-aeb7-11ec-80da-024352452ce0",
-                        "path_word": "wzmhdsjxszffantasticdays",
-                        "chapter_uuid": "cce9b8b2-9543-11ef-859b-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬21è©±"
-                    }
-                }
-            },
-            {
-                "uuid": 130528,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "40925834-aa0f-11ef-8e2c-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬64è¯"
-                },
-                "comic": {
-                    "uuid": "d977aa56-c20b-11e8-b8b2-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "異世界叔叔",
-                    "path_word": "yishijieshushu",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "殆ど死んでいる",
-                            "path_word": "殆ど死んでいる"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://sy.mangafunb.fun/y/yishijieshushu/cover/1716882350.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 18382634,
-                    "datetime_updated": "2025-01-27",
-                    "last_chapter_id": "727e6aa4-dc50-11ef-ad0e-3f487b7d9a9a",
-                    "last_chapter_name": "番外篇6",
-                    "browse": {
-                        "comic_uuid": "d977aa56-c20b-11e8-b8b2-00163e0ca5bd",
-                        "path_word": "yishijieshushu",
-                        "chapter_uuid": "40925834-aa0f-11ef-8e2c-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬64è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 144305,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "ca0fbb16-788b-11ef-b641-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬88è©±"
-                },
-                "comic": {
-                    "uuid": "0f9d2d62-0047-11e9-8965-024352452ce0",
-                    "b_display": true,
-                    "name": "無良公會",
-                    "path_word": "wulianggonghui",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "河添太一",
-                            "path_word": "河添太一"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/wulianggonghui/cover/1666453671.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 7637758,
-                    "datetime_updated": "2025-01-21",
-                    "last_chapter_id": "c5195110-d792-11ef-aab0-3f487b7d9a9a",
-                    "last_chapter_name": "第91話",
-                    "browse": {
-                        "comic_uuid": "0f9d2d62-0047-11e9-8965-024352452ce0",
-                        "path_word": "wulianggonghui",
-                        "chapter_uuid": "ca0fbb16-788b-11ef-b641-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬88è©±"
-                    }
-                }
-            },
-            {
-                "uuid": 105664,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "7b557a8c-9e43-11ef-89b7-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬123è©±"
-                },
-                "comic": {
-                    "uuid": "8e95d707-4e73-11ea-b74c-024352452ce0",
-                    "b_display": true,
-                    "name": "為這美好世界獻上祝福",
-                    "path_word": "wzmhsjxszf",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "渡真仁",
-                            "path_word": "渡真仁"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/wzmhsjxszf/cover/1670557918.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 4220932,
-                    "datetime_updated": "2025-01-16",
-                    "last_chapter_id": "4ec3696e-d3ce-11ef-a875-3f487b7d9a9a",
-                    "last_chapter_name": "第125話",
-                    "browse": {
-                        "comic_uuid": "8e95d707-4e73-11ea-b74c-024352452ce0",
-                        "path_word": "wzmhsjxszf",
-                        "chapter_uuid": "7b557a8c-9e43-11ef-89b7-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬123è©±"
-                    }
-                }
-            },
-            {
-                "uuid": 121050,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "dcc3e8e4-8f43-11ef-819c-3f487b7d9a9a",
-                    "last_browse_name": "2024å®˜æ–¹äººæ°”æŠ•ç¥¨"
-                },
-                "comic": {
-                    "uuid": "afcab004-bb61-11e9-9069-024352452ce0",
-                    "b_display": true,
-                    "name": "呪術廻戦",
-                    "path_word": "zhoushuhuizhan",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "芥見下々",
-                            "path_word": "芥見下々"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/zhoushuhuizhan/cover/1689576888.png.328x422.jpg",
-                    "status": 1,
-                    "popular": 22522637,
-                    "datetime_updated": "2025-01-09",
-                    "last_chapter_id": "bc38b742-ce33-11ef-a58e-3f487b7d9a9a",
-                    "last_chapter_name": "尾声",
-                    "browse": {
-                        "comic_uuid": "afcab004-bb61-11e9-9069-024352452ce0",
-                        "path_word": "zhoushuhuizhan",
-                        "chapter_uuid": "dcc3e8e4-8f43-11ef-819c-3f487b7d9a9a",
-                        "chapter_name": "2024å®˜æ–¹äººæ°”æŠ•ç¥¨"
-                    }
-                }
-            },
-            {
-                "uuid": 100608,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "4e8492ee-a056-11ef-8a6d-3f487b7d9a9a",
-                    "last_browse_name": "1stæ’ç”»é›† GlareÃ—Sparkle"
-                },
-                "comic": {
-                    "uuid": "d70ee434-7766-11ea-8010-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "【我推的孩子】",
-                    "path_word": "wodantuidenvhai",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "赤坂アカ",
-                            "path_word": "赤坂アカ"
-                        },
-                        {
-                            "name": "横槍メンゴ",
-                            "path_word": "横槍メンゴ"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/wodantuidenvhai/cover/1684308575.jpg.328x422.jpg",
-                    "status": 1,
-                    "popular": 27336784,
-                    "datetime_updated": "2025-01-05",
-                    "last_chapter_id": "3630b3ba-cb4b-11ef-a2f4-3f487b7d9a9a",
-                    "last_chapter_name": "2025新年贺图",
-                    "browse": {
-                        "comic_uuid": "d70ee434-7766-11ea-8010-00163e0ca5bd",
-                        "path_word": "wodantuidenvhai",
-                        "chapter_uuid": "4e8492ee-a056-11ef-8a6d-3f487b7d9a9a",
-                        "chapter_name": "1stæ’ç”»é›† GlareÃ—Sparkle"
-                    }
-                }
-            },
-            {
-                "uuid": 144306,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "4fc2f746-c8b4-11ef-a126-3f487b7d9a9a",
-                    "last_browse_name": "2025æ–°å¹´è´ºå›¾"
-                },
-                "comic": {
-                    "uuid": "98c65154-55dd-11e9-bd20-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "憧憬成為魔法少女",
-                    "path_word": "chongjingchengweimofashaonv",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "小野中彰大",
-                            "path_word": "小野中彰大"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://sc.mangafunb.fun/c/chongjingchengweimofashaonv/cover/1733200753.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 19487522,
+                    "popular": 19344330,
                     "datetime_updated": "2025-01-02",
-                    "last_chapter_id": "4fc2f746-c8b4-11ef-a126-3f487b7d9a9a",
-                    "last_chapter_name": "2025新年贺图",
-                    "browse": {
-                        "comic_uuid": "98c65154-55dd-11e9-bd20-00163e0ca5bd",
-                        "path_word": "chongjingchengweimofashaonv",
-                        "chapter_uuid": "4fc2f746-c8b4-11ef-a126-3f487b7d9a9a",
-                        "chapter_name": "2025æ–°å¹´è´ºå›¾"
-                    }
+                    "last_chapter_id": "c296ef68-c867-11ef-a105-3f487b7d9a9a",
+                    "last_chapter_name": "2025新年賀圖"
                 }
             }
         ],
-        "total": 30,
+        "total": 4,
         "limit": 20,
         "offset": 0
     }
