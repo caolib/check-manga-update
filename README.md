@@ -6,7 +6,6 @@
 ![GitHub License](https://img.shields.io/github/license/caolib/check-manga-update)
 
 ## 1.简介
-## 1.简介
 
 使用`Github Actions`定期执行python脚本检查拷贝漫画个人书架的漫画是否更新，并使用邮件通知更新
 
@@ -14,7 +13,6 @@
 
 ![image-20250307194544112](https://s2.loli.net/2025/03/07/dseWfJnl5L4KoaS.png)
 
-## 2.怎么使用
 ## 2.怎么使用
 
 ### 2.1 本地使用
@@ -165,7 +163,6 @@ on:
     # - cron: "0 * * * *"
 ```
 
-## 4.计划
 ## 4.计划
 
 - [x] 可以使用其他邮箱服务
