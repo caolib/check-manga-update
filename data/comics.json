@@ -4,71 +4,6 @@
     "results": {
         "list": [
             {
-                "uuid": 211473,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
-                    "last_browse_name": "ç¬¬42è¯"
-                },
-                "comic": {
-                    "uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
-                    "b_display": true,
-                    "name": "別當歐尼醬了！",
-                    "path_word": "biedangounijiangle",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "ねことうふ（猫豆腐）",
-                            "path_word": "ねことうふ（猫豆腐）"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 7594767,
-                    "datetime_updated": "2025-03-01",
-                    "last_chapter_id": "49e13a9d-f6a6-11ef-85e1-fa163e02432f",
-                    "last_chapter_name": "第97话",
-                    "browse": {
-                        "comic_uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
-                        "path_word": "biedangounijiangle",
-                        "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
-                        "chapter_name": "ç¬¬42è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 212309,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": null,
-                "comic": {
-                    "uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "電鋸人",
-                    "path_word": "dianjuren",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "藤本タツキ",
-                            "path_word": "藤本タツキ"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 46698832,
-                    "datetime_updated": "2025-02-28",
-                    "last_chapter_id": "d487e777-f573-11ef-9f4c-fa163e02432f",
-                    "last_chapter_name": "第193话"
-                }
-            },
-            {
                 "uuid": 211467,
                 "name": null,
                 "b_folder": false,
@@ -97,15 +32,80 @@
                     "theme": [],
                     "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
-                    "popular": 106727,
-                    "datetime_updated": "2025-02-28",
-                    "last_chapter_id": "c5c01264-f543-11ef-a7f4-fa163e02432f",
-                    "last_chapter_name": "第50話",
+                    "popular": 119941,
+                    "datetime_updated": "2025-03-20",
+                    "last_chapter_id": "d01e67df-05a3-11f0-933e-fa163e02432f",
+                    "last_chapter_name": "第56話",
                     "browse": {
                         "comic_uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
                         "path_word": "puputongtongqinyinbu",
                         "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
                         "chapter_name": "ç¬¬33è©±"
+                    }
+                }
+            },
+            {
+                "uuid": 212309,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": null,
+                "comic": {
+                    "uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
+                    "b_display": true,
+                    "name": "電鋸人",
+                    "path_word": "dianjuren",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "藤本タツキ",
+                            "path_word": "藤本タツキ"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 47177942,
+                    "datetime_updated": "2025-03-03",
+                    "last_chapter_id": "8f763ecc-f7d8-11ef-a1f3-fa163e02432f",
+                    "last_chapter_name": "第194话"
+                }
+            },
+            {
+                "uuid": 211473,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": {
+                    "last_browse_id": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                    "last_browse_name": "ç¬¬42è¯"
+                },
+                "comic": {
+                    "uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
+                    "b_display": true,
+                    "name": "別當歐尼醬了！",
+                    "path_word": "biedangounijiangle",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "ねことうふ（猫豆腐）",
+                            "path_word": "ねことうふ（猫豆腐）"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 7688570,
+                    "datetime_updated": "2025-03-01",
+                    "last_chapter_id": "49e13a9d-f6a6-11ef-85e1-fa163e02432f",
+                    "last_chapter_name": "第97话",
+                    "browse": {
+                        "comic_uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
+                        "path_word": "biedangounijiangle",
+                        "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                        "chapter_name": "ç¬¬42è¯"
                     }
                 }
             },
@@ -135,7 +135,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 19328741,
+                    "popular": 19535747,
                     "datetime_updated": "2025-01-02",
                     "last_chapter_id": "c296ef68-c867-11ef-a105-3f487b7d9a9a",
                     "last_chapter_name": "2025新年賀圖"

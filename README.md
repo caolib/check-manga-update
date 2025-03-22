@@ -5,19 +5,44 @@
 ![GitHub Release](https://img.shields.io/github/v/release/caolib/check-manga-update?link=https%3A%2F%2Fgithub.com%2Fcaolib%2Fcheck-manga-update%2Freleases)
 ![GitHub License](https://img.shields.io/github/license/caolib/check-manga-update)
 
-## 简介
+## 1.简介
 
 使用`Github Actions`定期执行python脚本检查个人书架的漫画是否更新，并使用邮件进行通知
 
-## 怎么使用
+## 2.怎么使用
 
-先决条件：
+### 2.1 本地使用
 
-1. 一个开启了SMTP服务的邮箱，用于发送邮件通知你漫画更新了
-2. 一个拷贝漫画的账号，用于检查你的个人书架是否有更新
-3. 一个github仓库用于定期运行检查脚本
+> [!note]
+>
+> 如果你并**不需要定时检查**，这种方式更适合你
 
-### 开启邮件SMTP服务
+1. clone仓库或下载[压缩包](https://github.com/caolib/check-manga-update/archive/refs/heads/main.zip)到本地
+
+2. 在`data`文件夹下添加一个文件`var.json`，填写你的用户名和密码
+
+   ```json
+   {
+       "token": "",
+       "username": "拷贝的用户名",
+       "password": "拷贝的密码",
+       "from_email": "",
+       "to_email": "",
+       "email_token": ""
+   }
+   ```
+   
+3. 双击`main.py`即可启动
+
+### 2.2 在github上使用
+
+> 这种方法相对来说较为麻烦，但是可以定时检查并发邮件通知你，先决条件：
+>
+> 1. 一个开启了SMTP服务的邮箱，用于发送邮件通知你漫画更新了
+> 2. 一个拷贝漫画的账号，用于检查你的个人书架是否有更新
+> 3. 一个github仓库用于定期运行检查脚本
+
+#### 1.开启邮件SMTP服务
 
 此处使用QQ邮箱，可以参阅[邮箱开启SMTP服务](https://clb.pages.dev/2024/12/27/开启SMTP服务/)获取邮箱授权码，这个授权码后面要使用
 
@@ -28,7 +53,7 @@
 server = EmailServer("smtp.gmail.com", 465, email_token)   # Gmail
 ```
 
-### clone或fork
+#### 2.clone或fork
 
 仓库中的`data/comics.json`文件保存了你的书架中最近更新的漫画(上限20个)：
 
@@ -36,7 +61,7 @@ server = EmailServer("smtp.gmail.com", 465, email_token)   # Gmail
 
 - 如果你不介意别人看到的话，可以直接**fork**本仓库(~~我根本不介意的😋~~)
 
-### 添加Secrets
+#### 3.添加Secrets
 
 1. 进入你的仓库，点击**Settings**
 
@@ -93,7 +118,7 @@ EMAIL_TOKEN
 
   ![image-20241228124951850](https://s2.loli.net/2024/12/28/un3kYgVO5BENLvF.png)
 
-### 测试
+#### 4.测试
 
 你可以手动触发工作流测试是否能正常工作
 
@@ -103,9 +128,10 @@ EMAIL_TOKEN
 
 ![image-20241228101807069](https://s2.loli.net/2024/12/28/QAyn9otF82c3zfO.png)
 
-## 其他配置
 
-### 修改触发条件
+## 3.其他配置
+
+### 3.1 修改触发条件
 
 > [!NOTE] 
 >
@@ -125,7 +151,7 @@ on:
     # - cron: "0 * * * *"
 ```
 
-## 计划
+## 4.计划
 
 - [x] 可以使用其他邮箱服务
 - [x] 项目文件结构优化，抽取函数到多个py文件
