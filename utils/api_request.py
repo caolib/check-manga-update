@@ -4,7 +4,7 @@ from utils.login import login
 
 flag = False
 
-def fetch_comics(username, password, salt,token, vars,):
+def fetch_comics(username, password, salt,token,vars,):
     response = api_request(token)
     if response == False:
         token = login(username, password, salt, vars)

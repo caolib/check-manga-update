@@ -6,6 +6,7 @@
 ![GitHub License](https://img.shields.io/github/license/caolib/check-manga-update)
 
 ## 1.简介
+## 1.简介
 
 使用`Github Actions`定期执行python脚本检查拷贝漫画个人书架的漫画是否更新，并使用邮件通知更新
 
@@ -14,14 +15,40 @@
 ![image-20250307194544112](https://s2.loli.net/2025/03/07/dseWfJnl5L4KoaS.png)
 
 ## 2.怎么使用
+## 2.怎么使用
 
-先决条件：
+### 2.1 本地使用
 
-1. 一个开启了`SMTP`服务的邮箱，用于发送邮件通知你漫画更新了
-2. 一个拷贝漫画的账号，用于检查你的个人书架是否有更新
-3. 一个github仓库用于定期运行检查脚本
+> [!note]
+>
+> 如果你并**不需要定时检查**，这种方式更适合你
 
-### 2.1 邮箱开启SMTP服务
+1. clone仓库或下载[压缩包](https://github.com/caolib/check-manga-update/archive/refs/heads/main.zip)到本地
+
+2. 在`data`文件夹下添加一个文件`var.json`，填写你的用户名和密码
+
+   ```json
+   {
+       "token": "",
+       "username": "拷贝的用户名",
+       "password": "拷贝的密码",
+       "from_email": "",
+       "to_email": "",
+       "email_token": ""
+   }
+   ```
+   
+3. 双击`main.py`即可启动
+
+### 2.2 在github上使用
+
+> 这种方法相对来说较为麻烦，但是可以定时检查并发邮件通知你，先决条件：
+>
+> 1. 一个开启了SMTP服务的邮箱，用于发送邮件通知你漫画更新了
+> 2. 一个拷贝漫画的账号，用于检查你的个人书架是否有更新
+> 3. 一个github仓库用于定期运行检查脚本
+
+#### 1.开启邮件SMTP服务
 
 此处使用QQ邮箱，可以参阅这篇文章[邮箱开启SMTP服务](https://clb.pages.dev/2024/12/27/开启SMTP服务/)获取邮箱授权码`EMAIL_TOKEN`
 
@@ -32,7 +59,7 @@
 server = EmailServer("smtp.gmail.com", 465, email_token)   # Gmail
 ```
 
-### 2.2 准备github仓库
+#### 2.clone或fork
 
 因为仓库中的`data/comics.json`文件保存了你的书架中最近更新的漫画(上限20个)，所以：
 
@@ -40,7 +67,7 @@ server = EmailServer("smtp.gmail.com", 465, email_token)   # Gmail
 
 - 如果你不介意别人看到的话：你可以直接**Fork**本仓库(~~我根本不介意的😋~~)
 
-### 2.3 添加仓库变量
+#### 3.添加Secrets
 
 - 进入你的仓库，点击**Settings** 
 
@@ -50,14 +77,16 @@ server = EmailServer("smtp.gmail.com", 465, email_token)   # Gmail
 
 ![image-20241228123648544](https://s2.loli.net/2024/12/28/CkFaXtLTQbRU5he.png)
 
-| Key         | Value                        |
-| ----------- | ---------------------------- |
-| TOKEN       | 拷贝 token（非必要但是建议） |
-| USERNAME    | 拷贝 用户名                  |
-| PASSWORD    | 拷贝 密码                    |
-| FROM_EMAIL  | 发件人邮箱                   |
-| TO_EMAIL    | 收件人邮箱，可以发给自己     |
-| EMAIL_TOKEN | 邮箱授权码                   |
+| Key         | Value        |
+|-------------|--------------|
+| TOKEN       | 拷贝 token     |
+| USERNAME    | 拷贝 用户名       |
+| PASSWORD    | 拷贝 密码        |
+| FROM_EMAIL  | 发件人邮箱        |
+| TO_EMAIL    | 收件人邮箱，可以发给自己 |
+| EMAIL_TOKEN | 邮箱授权码        |
+
+快捷复制:)
 
 ```txt
 TOKEN
@@ -97,11 +126,13 @@ EMAIL_TOKEN
 
 - 按`F12`或右键选择**检查**打开开发者工具
 
-- 打开应用程序一栏，在左侧找到Cookie，找到token变量赋值给仓库变量`TOKEN`
+- 打开应用程序一栏，在左侧找到Cookie，复制token的值
+
+- **其实token也不是必须的，只要有用户名和密码可以自动获取，但是自动获取的token会导致你的网站上的token失效，每次自动获取一次token，网站都需要重新登录**
 
   ![image-20241228124951850](https://s2.loli.net/2024/12/28/un3kYgVO5BENLvF.png)
 
-### 2.4 测试
+#### 4.测试
 
 你可以手动触发工作流测试是否能正常工作
 
@@ -111,9 +142,10 @@ Actions启动后点击check查看工作流执行情况
 
 ![image-20250307200902406](https://s2.loli.net/2025/03/07/UHZo6lhFVT3DMX5.png)
 
-## 3.额外配置
 
-### 3.1 修改触发频率
+## 3.其他配置
+
+### 3.1 修改触发条件
 
 > [!NOTE] 
 >
@@ -134,10 +166,10 @@ on:
 ```
 
 ## 4.计划
+## 4.计划
 
 - [x] 可以使用其他邮箱服务
 - [x] 项目文件结构优化，抽取函数到多个py文件
-- [ ] 想不到有什么好主意了😪
 
 **如果对你有帮助的话，不妨给个star⭐**
 

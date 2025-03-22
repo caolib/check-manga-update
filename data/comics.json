@@ -10,7 +10,7 @@
                 "folder_id": null,
                 "last_browse": {
                     "last_browse_id": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬33è©±"
+                    "last_browse_name": "ç¬¬33è©±""last_browse_name": "ç¬¬33è©±"
                 },
                 "comic": {
                     "uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
@@ -31,8 +31,9 @@
                     ],
                     "theme": [],
                     "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
+                    "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
-                    "popular": 117822,
+                    "popular": 119941,
                     "datetime_updated": "2025-03-20",
                     "last_chapter_id": "d01e67df-05a3-11f0-933e-fa163e02432f",
                     "last_chapter_name": "第56話",
@@ -66,7 +67,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 47160633,
+                    "popular": 47177942,
                     "datetime_updated": "2025-03-03",
                     "last_chapter_id": "8f763ecc-f7d8-11ef-a1f3-fa163e02432f",
                     "last_chapter_name": "第194话"
@@ -97,7 +98,7 @@
                     "theme": [],
                     "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 7685324,
+                    "popular": 7688570,
                     "datetime_updated": "2025-03-01",
                     "last_chapter_id": "49e13a9d-f6a6-11ef-85e1-fa163e02432f",
                     "last_chapter_name": "第97话",
@@ -135,7 +136,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 19525463,
+                    "popular": 19535747,
                     "datetime_updated": "2025-01-02",
                     "last_chapter_id": "c296ef68-c867-11ef-a105-3f487b7d9a9a",
                     "last_chapter_name": "2025新年賀圖"
