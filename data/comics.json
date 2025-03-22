@@ -10,7 +10,7 @@
                 "folder_id": null,
                 "last_browse": {
                     "last_browse_id": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬33è©±"
+                    "last_browse_name": "ç¬¬33è©±""last_browse_name": "ç¬¬33è©±"
                 },
                 "comic": {
                     "uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
@@ -30,6 +30,7 @@
                         }
                     ],
                     "theme": [],
+                    "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
                     "popular": 119941,
