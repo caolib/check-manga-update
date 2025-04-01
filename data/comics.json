@@ -4,44 +4,39 @@
     "results": {
         "list": [
             {
-                "uuid": 211467,
+                "uuid": 211473,
                 "name": null,
                 "b_folder": false,
                 "folder_id": null,
                 "last_browse": {
-                    "last_browse_id": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬33è©±""last_browse_name": "ç¬¬33è©±"
+                    "last_browse_id": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                    "last_browse_name": "ç¬¬42è¯"
                 },
                 "comic": {
-                    "uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
+                    "uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
                     "b_display": true,
-                    "name": "普普通通輕音部",
-                    "path_word": "puputongtongqinyinbu",
+                    "name": "別當歐尼醬了！",
+                    "path_word": "biedangounijiangle",
                     "females": [],
                     "males": [],
                     "author": [
                         {
-                            "name": "出内テツオ",
-                            "path_word": "出内テツオ"
-                        },
-                        {
-                            "name": "クワハリ",
-                            "path_word": "クワハリ"
+                            "name": "ねことうふ（猫豆腐）",
+                            "path_word": "ねことうふ（猫豆腐）"
                         }
                     ],
                     "theme": [],
-                    "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
-                    "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
+                    "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 119941,
-                    "datetime_updated": "2025-03-20",
-                    "last_chapter_id": "d01e67df-05a3-11f0-933e-fa163e02432f",
-                    "last_chapter_name": "第56話",
+                    "popular": 7739494,
+                    "datetime_updated": "2025-03-30",
+                    "last_chapter_id": "fd1b69c0-0cc8-11f0-8cf9-fa163e02432f",
+                    "last_chapter_name": "第98话",
                     "browse": {
-                        "comic_uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
-                        "path_word": "puputongtongqinyinbu",
-                        "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬33è©±"
+                        "comic_uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
+                        "path_word": "biedangounijiangle",
+                        "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                        "chapter_name": "ç¬¬42è¯"
                     }
                 }
             },
@@ -67,46 +62,50 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 47177942,
-                    "datetime_updated": "2025-03-03",
-                    "last_chapter_id": "8f763ecc-f7d8-11ef-a1f3-fa163e02432f",
-                    "last_chapter_name": "第194话"
+                    "popular": 47405362,
+                    "datetime_updated": "2025-03-28",
+                    "last_chapter_id": "57dea64e-0b7a-11f0-99ad-fa163e02432f",
+                    "last_chapter_name": "第197话"
                 }
             },
             {
-                "uuid": 211473,
+                "uuid": 211467,
                 "name": null,
                 "b_folder": false,
                 "folder_id": null,
                 "last_browse": {
-                    "last_browse_id": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
-                    "last_browse_name": "ç¬¬42è¯"
+                    "last_browse_id": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
+                    "last_browse_name": "ç¬¬33è©±"
                 },
                 "comic": {
-                    "uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
+                    "uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
                     "b_display": true,
-                    "name": "別當歐尼醬了！",
-                    "path_word": "biedangounijiangle",
+                    "name": "普普通通輕音部",
+                    "path_word": "puputongtongqinyinbu",
                     "females": [],
                     "males": [],
                     "author": [
                         {
-                            "name": "ねことうふ（猫豆腐）",
-                            "path_word": "ねことうふ（猫豆腐）"
+                            "name": "出内テツオ",
+                            "path_word": "出内テツオ"
+                        },
+                        {
+                            "name": "クワハリ",
+                            "path_word": "クワハリ"
                         }
                     ],
                     "theme": [],
-                    "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
+                    "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
-                    "popular": 7688570,
-                    "datetime_updated": "2025-03-01",
-                    "last_chapter_id": "49e13a9d-f6a6-11ef-85e1-fa163e02432f",
-                    "last_chapter_name": "第97话",
+                    "popular": 126138,
+                    "datetime_updated": "2025-03-27",
+                    "last_chapter_id": "a5513ab9-0b22-11f0-b8c5-fa163e02432f",
+                    "last_chapter_name": "第57話",
                     "browse": {
-                        "comic_uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
-                        "path_word": "biedangounijiangle",
-                        "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
-                        "chapter_name": "ç¬¬42è¯"
+                        "comic_uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
+                        "path_word": "puputongtongqinyinbu",
+                        "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
+                        "chapter_name": "ç¬¬33è©±"
                     }
                 }
             },
@@ -136,7 +135,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 19535747,
+                    "popular": 19673646,
                     "datetime_updated": "2025-01-02",
                     "last_chapter_id": "c296ef68-c867-11ef-a105-3f487b7d9a9a",
                     "last_chapter_name": "2025新年賀圖"
