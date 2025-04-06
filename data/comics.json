@@ -4,6 +4,38 @@
     "results": {
         "list": [
             {
+                "uuid": 211460,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": null,
+                "comic": {
+                    "uuid": "4caadd62-4efd-11e9-8b1c-024352452ce0",
+                    "b_display": true,
+                    "name": "一拳超人",
+                    "path_word": "yiquanchaoren",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "村田雄介",
+                            "path_word": "村田雄介"
+                        },
+                        {
+                            "name": "ONE",
+                            "path_word": "ONE"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 19754508,
+                    "datetime_updated": "2025-04-05",
+                    "last_chapter_id": "e34e120c-11d9-11f0-873e-fa163e02432f",
+                    "last_chapter_name": "重制版33卷番外"
+                }
+            },
+            {
                 "uuid": 211467,
                 "name": null,
                 "b_folder": false,
@@ -32,7 +64,7 @@
                     "theme": [],
                     "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
-                    "popular": 127235,
+                    "popular": 129203,
                     "datetime_updated": "2025-04-04",
                     "last_chapter_id": "078f0859-10a9-11f0-aa90-fa163e02432f",
                     "last_chapter_name": "第59話",
@@ -69,7 +101,7 @@
                     "theme": [],
                     "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 7757210,
+                    "popular": 7762030,
                     "datetime_updated": "2025-03-30",
                     "last_chapter_id": "fd1b69c0-0cc8-11f0-8cf9-fa163e02432f",
                     "last_chapter_name": "第98话",
@@ -103,42 +135,10 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 47510241,
+                    "popular": 47542918,
                     "datetime_updated": "2025-03-28",
                     "last_chapter_id": "57dea64e-0b7a-11f0-99ad-fa163e02432f",
                     "last_chapter_name": "第197话"
-                }
-            },
-            {
-                "uuid": 211460,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": null,
-                "comic": {
-                    "uuid": "4caadd62-4efd-11e9-8b1c-024352452ce0",
-                    "b_display": true,
-                    "name": "一拳超人",
-                    "path_word": "yiquanchaoren",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "村田雄介",
-                            "path_word": "村田雄介"
-                        },
-                        {
-                            "name": "ONE",
-                            "path_word": "ONE"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 19734154,
-                    "datetime_updated": "2025-01-02",
-                    "last_chapter_id": "c296ef68-c867-11ef-a105-3f487b7d9a9a",
-                    "last_chapter_name": "2025新年賀圖"
                 }
             }
         ],
