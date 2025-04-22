@@ -4,6 +4,34 @@
     "results": {
         "list": [
             {
+                "uuid": 212309,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": null,
+                "comic": {
+                    "uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
+                    "b_display": true,
+                    "name": "電鋸人",
+                    "path_word": "dianjuren",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "藤本タツキ",
+                            "path_word": "藤本タツキ"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 48010982,
+                    "datetime_updated": "2025-04-21",
+                    "last_chapter_id": "2b1894c3-1e8d-11f0-a0bf-fa163e02432f",
+                    "last_chapter_name": "第200话"
+                }
+            },
+            {
                 "uuid": 211467,
                 "name": null,
                 "b_folder": false,
@@ -32,7 +60,7 @@
                     "theme": [],
                     "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
-                    "popular": 138089,
+                    "popular": 138442,
                     "datetime_updated": "2025-04-10",
                     "last_chapter_id": "521faed8-1619-11f0-b60d-fa163e02432f",
                     "last_chapter_name": "番外4",
@@ -42,34 +70,6 @@
                         "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
                         "chapter_name": "ç¬¬33è©±"
                     }
-                }
-            },
-            {
-                "uuid": 212309,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": null,
-                "comic": {
-                    "uuid": "259e688c-f526-11e8-b542-00163e0ca5bd",
-                    "b_display": true,
-                    "name": "電鋸人",
-                    "path_word": "dianjuren",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "藤本タツキ",
-                            "path_word": "藤本タツキ"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 47986292,
-                    "datetime_updated": "2025-04-09",
-                    "last_chapter_id": "cd8016bd-1527-11f0-8b12-fa163e02432f",
-                    "last_chapter_name": "第199话"
                 }
             },
             {
@@ -98,7 +98,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 20123953,
+                    "popular": 20146110,
                     "datetime_updated": "2025-04-05",
                     "last_chapter_id": "e34e120c-11d9-11f0-873e-fa163e02432f",
                     "last_chapter_name": "重制版33卷番外"
@@ -129,7 +129,7 @@
                     "theme": [],
                     "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 7824669,
+                    "popular": 7828284,
                     "datetime_updated": "2025-03-30",
                     "last_chapter_id": "fd1b69c0-0cc8-11f0-8cf9-fa163e02432f",
                     "last_chapter_name": "第98话",
