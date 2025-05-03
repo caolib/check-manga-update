@@ -4,6 +4,43 @@
     "results": {
         "list": [
             {
+                "uuid": 211473,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": {
+                    "last_browse_id": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                    "last_browse_name": "ç¬¬42è¯"
+                },
+                "comic": {
+                    "uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
+                    "b_display": true,
+                    "name": "別當歐尼醬了！",
+                    "path_word": "biedangounijiangle",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "ねことうふ（猫豆腐）",
+                            "path_word": "ねことうふ（猫豆腐）"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 7865730,
+                    "datetime_updated": "2025-05-02",
+                    "last_chapter_id": "ee7330be-273a-11f0-b2bf-fa163e02432f",
+                    "last_chapter_name": "第99话",
+                    "browse": {
+                        "comic_uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
+                        "path_word": "biedangounijiangle",
+                        "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
+                        "chapter_name": "ç¬¬42è¯"
+                    }
+                }
+            },
+            {
                 "uuid": 211467,
                 "name": null,
                 "b_folder": false,
@@ -32,7 +69,7 @@
                     "theme": [],
                     "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
-                    "popular": 141736,
+                    "popular": 143767,
                     "datetime_updated": "2025-05-01",
                     "last_chapter_id": "2bd00ee7-26a2-11f0-bb73-fa163e02432f",
                     "last_chapter_name": "番外6",
@@ -66,7 +103,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 48277960,
+                    "popular": 48298409,
                     "datetime_updated": "2025-04-30",
                     "last_chapter_id": "260f9d14-2562-11f0-888a-fa163e02432f",
                     "last_chapter_name": "第201话"
@@ -98,47 +135,10 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 20360420,
+                    "popular": 20377107,
                     "datetime_updated": "2025-04-05",
                     "last_chapter_id": "e34e120c-11d9-11f0-873e-fa163e02432f",
                     "last_chapter_name": "重制版33卷番外"
-                }
-            },
-            {
-                "uuid": 211473,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
-                    "last_browse_name": "ç¬¬42è¯"
-                },
-                "comic": {
-                    "uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
-                    "b_display": true,
-                    "name": "別當歐尼醬了！",
-                    "path_word": "biedangounijiangle",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "ねことうふ（猫豆腐）",
-                            "path_word": "ねことうふ（猫豆腐）"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 7863307,
-                    "datetime_updated": "2025-03-30",
-                    "last_chapter_id": "fd1b69c0-0cc8-11f0-8cf9-fa163e02432f",
-                    "last_chapter_name": "第98话",
-                    "browse": {
-                        "comic_uuid": "331d4826-9b85-11e8-8c80-c8ff287e7c9d",
-                        "path_word": "biedangounijiangle",
-                        "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
-                        "chapter_name": "ç¬¬42è¯"
-                    }
                 }
             }
         ],
