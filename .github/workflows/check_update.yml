@@ -30,23 +30,32 @@ jobs:
       with:
         python-version: 3.x  # 替换为你的 Python 版本
 
+    # 缓存 pip 依赖
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
     # 安装 requirements.txt 中的依赖
     - name: 安装依赖
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-      # 2. 动态生成 var.json 文件
+    # 动态生成 var.json 文件
     - name: Generate var.json
       run: |
-          echo '{
-            "token": "'"${{ secrets.TOKEN }}"'",
-            "username": "'"${{ secrets.USERNAME }}"'",
-            "password": "'"${{ secrets.PASSWORD }}"'",
-            "from_email": "'"${{ secrets.FROM_EMAIL }}"'",
-            "to_email": "'"${{ secrets.TO_EMAIL }}"'",
-            "email_token": "'"${{ secrets.EMAIL_TOKEN }}"'"
-          }' > data/var.json
+        echo '{
+          "token": "'"${{ secrets.TOKEN }}"'",
+          "username": "'"${{ secrets.USERNAME }}"'",
+          "password": "'"${{ secrets.PASSWORD }}"'",
+          "from_email": "'"${{ secrets.FROM_EMAIL }}"'",
+          "to_email": "'"${{ secrets.TO_EMAIL }}"'",
+          "email_token": "'"${{ secrets.EMAIL_TOKEN }}"'"
+        }' > data/var.json
 
     # 检查漫画更新
     - name: 检查更新
@@ -56,16 +65,16 @@ jobs:
     # 更新 comics.json
     - name: 更新漫画内容
       run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          cd data
-          git add comics.json
-          if git diff-index --quiet HEAD --; then
-            echo "No changes to commit"
-          else
-            git commit -m '📃 docs: 漫画内容更新'
-            git pull
-            git push
-          fi
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        cd data
+        git add comics.json
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit"
+        else
+          git commit -m '📃 docs: 漫画内容更新'
+          git pull
+          git push
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
