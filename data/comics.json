@@ -4,6 +4,38 @@
     "results": {
         "list": [
             {
+                "uuid": 211460,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": null,
+                "comic": {
+                    "uuid": "4caadd62-4efd-11e9-8b1c-024352452ce0",
+                    "b_display": true,
+                    "name": "一拳超人",
+                    "path_word": "yiquanchaoren",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "村田雄介",
+                            "path_word": "村田雄介"
+                        },
+                        {
+                            "name": "ONE",
+                            "path_word": "ONE"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
+                    "status": 0,
+                    "popular": 21453840,
+                    "datetime_updated": "2025-07-31",
+                    "last_chapter_id": "99380d9c-6dc6-11f0-9fc6-fa163e02432f",
+                    "last_chapter_name": "新256话"
+                }
+            },
+            {
                 "uuid": 212309,
                 "name": null,
                 "b_folder": false,
@@ -25,7 +57,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 49567339,
+                    "popular": 49582552,
                     "datetime_updated": "2025-07-30",
                     "last_chapter_id": "e8f1ab78-6cea-11f0-bee3-fa163e02432f",
                     "last_chapter_name": "第210话"
@@ -56,7 +88,7 @@
                     "theme": [],
                     "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 8235149,
+                    "popular": 8239555,
                     "datetime_updated": "2025-07-27",
                     "last_chapter_id": "822a0cab-6b00-11f0-8bc7-fa163e02432f",
                     "last_chapter_name": "第102话",
@@ -97,7 +129,7 @@
                     "theme": [],
                     "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
                     "status": 0,
-                    "popular": 185985,
+                    "popular": 186356,
                     "datetime_updated": "2025-07-17",
                     "last_chapter_id": "34de822d-6323-11f0-8a65-fa163e02432f",
                     "last_chapter_name": "第72話",
@@ -107,38 +139,6 @@
                         "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
                         "chapter_name": "ç¬¬33è©±"
                     }
-                }
-            },
-            {
-                "uuid": 211460,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": null,
-                "comic": {
-                    "uuid": "4caadd62-4efd-11e9-8b1c-024352452ce0",
-                    "b_display": true,
-                    "name": "一拳超人",
-                    "path_word": "yiquanchaoren",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "村田雄介",
-                            "path_word": "村田雄介"
-                        },
-                        {
-                            "name": "ONE",
-                            "path_word": "ONE"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
-                    "status": 0,
-                    "popular": 21432820,
-                    "datetime_updated": "2025-04-05",
-                    "last_chapter_id": "e34e120c-11d9-11f0-873e-fa163e02432f",
-                    "last_chapter_name": "重制版33卷番外"
                 }
             }
         ],
