@@ -4,6 +4,47 @@
     "results": {
         "list": [
             {
+                "uuid": 211467,
+                "name": null,
+                "b_folder": false,
+                "folder_id": null,
+                "last_browse": {
+                    "last_browse_id": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
+                    "last_browse_name": "ç¬¬33è©±"
+                },
+                "comic": {
+                    "uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
+                    "b_display": true,
+                    "name": "普普通通輕音部",
+                    "path_word": "puputongtongqinyinbu",
+                    "females": [],
+                    "males": [],
+                    "author": [
+                        {
+                            "name": "出内テツオ",
+                            "path_word": "出内テツオ"
+                        },
+                        {
+                            "name": "クワハリ",
+                            "path_word": "クワハリ"
+                        }
+                    ],
+                    "theme": [],
+                    "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
+                    "status": 0,
+                    "popular": 187771,
+                    "datetime_updated": "2025-08-05",
+                    "last_chapter_id": "348f19d6-7212-11f0-9be6-fa163e02432f",
+                    "last_chapter_name": "第74話",
+                    "browse": {
+                        "comic_uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
+                        "path_word": "puputongtongqinyinbu",
+                        "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
+                        "chapter_name": "ç¬¬33è©±"
+                    }
+                }
+            },
+            {
                 "uuid": 211460,
                 "name": null,
                 "b_folder": false,
@@ -29,10 +70,10 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/yiquanchaoren/cover/1651425894.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 21513566,
-                    "datetime_updated": "2025-07-31",
-                    "last_chapter_id": "99380d9c-6dc6-11f0-9fc6-fa163e02432f",
-                    "last_chapter_name": "新256话"
+                    "popular": 21527989,
+                    "datetime_updated": "2025-08-05",
+                    "last_chapter_id": "e19eaee9-7164-11f0-82ac-fa163e02432f",
+                    "last_chapter_name": "重制版34卷番外"
                 }
             },
             {
@@ -57,7 +98,7 @@
                     "theme": [],
                     "cover": "https://hi77-overseas.mangafunb.fun/dianjuren/cover/1689304034.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 49616631,
+                    "popular": 49625654,
                     "datetime_updated": "2025-07-30",
                     "last_chapter_id": "e8f1ab78-6cea-11f0-bee3-fa163e02432f",
                     "last_chapter_name": "第210话"
@@ -88,7 +129,7 @@
                     "theme": [],
                     "cover": "https://sb.mangafunb.fun/b/biedangounijiangle/cover/1730054905.jpg.328x422.jpg",
                     "status": 0,
-                    "popular": 8250065,
+                    "popular": 8253485,
                     "datetime_updated": "2025-07-27",
                     "last_chapter_id": "822a0cab-6b00-11f0-8bc7-fa163e02432f",
                     "last_chapter_name": "第102话",
@@ -97,47 +138,6 @@
                         "path_word": "biedangounijiangle",
                         "chapter_uuid": "80e0de68-e9f9-11ea-b8bb-00163e0ca5bd",
                         "chapter_name": "ç¬¬42è¯"
-                    }
-                }
-            },
-            {
-                "uuid": 211467,
-                "name": null,
-                "b_folder": false,
-                "folder_id": null,
-                "last_browse": {
-                    "last_browse_id": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
-                    "last_browse_name": "ç¬¬33è©±"
-                },
-                "comic": {
-                    "uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
-                    "b_display": true,
-                    "name": "普普通通輕音部",
-                    "path_word": "puputongtongqinyinbu",
-                    "females": [],
-                    "males": [],
-                    "author": [
-                        {
-                            "name": "出内テツオ",
-                            "path_word": "出内テツオ"
-                        },
-                        {
-                            "name": "クワハリ",
-                            "path_word": "クワハリ"
-                        }
-                    ],
-                    "theme": [],
-                    "cover": "https://sp.mangafunb.fun/p/puputongtongqinyinbu/cover/1738297762.jpeg.328x422.jpg",
-                    "status": 0,
-                    "popular": 187471,
-                    "datetime_updated": "2025-07-17",
-                    "last_chapter_id": "34de822d-6323-11f0-8a65-fa163e02432f",
-                    "last_chapter_name": "第72話",
-                    "browse": {
-                        "comic_uuid": "958da828-41fc-11ef-99c6-3f487b7d9a9a",
-                        "path_word": "puputongtongqinyinbu",
-                        "chapter_uuid": "7e1ec59e-c39f-11ef-9e6c-3f487b7d9a9a",
-                        "chapter_name": "ç¬¬33è©±"
                     }
                 }
             }
