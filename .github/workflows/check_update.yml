@@ -2,13 +2,13 @@ name: check
 
 on:
   # 定时触发
-  schedule:
+  # schedule:
     # 每隔30分钟触发一次
     # - cron: "*/30 * * * *"
     # 每小时整点触发
     # - cron: "0 * * * *"
     # 每天运行一次
-    - cron: "0 0 * * *"
+    # - cron: "0 0 * * *"
   # 允许手动触发
   workflow_dispatch:
 
